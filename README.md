@@ -7,7 +7,7 @@ A Streamlit-based free chatbot that provides general medical info using OpenRout
 - Memory of previous chat
 - Free model via OpenRouter
 - Deployed on Render
-
+live demo-https://medical-chatbot-iilc.onrender.com
 ## 🔧 Setup
 
 ```bash
